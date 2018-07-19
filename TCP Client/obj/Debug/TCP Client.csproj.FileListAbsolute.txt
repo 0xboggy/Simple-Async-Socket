@@ -1,0 +1,28 @@
+c:\users\user\documents\visual studio 2015\Projects\Simple Async Socket\Simple Async Socket\obj\Debug\TCP Client.csproj.GenerateResource.Cache
+C:\Users\User\documents\visual studio 2015\Projects\Simple Async Socket\Simple Async Socket\obj\Debug\TCP_Client.ClientForm.resources
+C:\Users\User\documents\visual studio 2015\Projects\Simple Async Socket\Simple Async Socket\obj\Debug\TCP_Client.Properties.Resources.resources
+C:\Users\User\documents\visual studio 2015\Projects\Simple Async Socket\Simple Async Socket\bin\Debug\TCP Server.exe.config
+C:\Users\User\documents\visual studio 2015\Projects\Simple Async Socket\Simple Async Socket\bin\Debug\TCP Server.exe
+C:\Users\User\documents\visual studio 2015\Projects\Simple Async Socket\Simple Async Socket\bin\Debug\TCP Server.pdb
+C:\Users\User\documents\visual studio 2015\Projects\Simple Async Socket\Simple Async Socket\obj\Debug\TCP Server.exe
+C:\Users\User\documents\visual studio 2015\Projects\Simple Async Socket\Simple Async Socket\obj\Debug\TCP Server.pdb
+C:\Users\User\Documents\Visual Studio 2015\Projects\Simple Async Socket\TCP Client\obj\Debug\TCP_Client.Properties.Resources.resources
+C:\Users\User\Documents\Visual Studio 2015\Projects\Simple Async Socket\TCP Client\obj\Debug\TCP Client.csproj.GenerateResource.Cache
+C:\Users\User\Documents\Visual Studio 2015\Projects\Simple Async Socket\TCP Client\obj\Debug\TCP_Client.ClientForm.resources
+C:\Users\User\Documents\Visual Studio 2015\Projects\Simple Async Socket\TCP Client\obj\Debug\TCP_Client.EmojiPanel.resources
+C:\Users\User\Documents\Visual Studio 2015\Projects\Simple Async Socket\TCP Client\bin\Debug\TCP Client.exe.config
+C:\Users\User\Documents\Visual Studio 2015\Projects\Simple Async Socket\TCP Client\bin\Debug\TCP Client.exe
+C:\Users\User\Documents\Visual Studio 2015\Projects\Simple Async Socket\TCP Client\bin\Debug\TCP Client.pdb
+C:\Users\User\Documents\Visual Studio 2015\Projects\Simple Async Socket\TCP Client\obj\Debug\TCP Client.exe
+C:\Users\User\Documents\Visual Studio 2015\Projects\Simple Async Socket\TCP Client\obj\Debug\TCP Client.pdb
+C:\Users\User\Documents\Visual Studio 2015\Projects\Simple Async Socket\TCP Client\obj\Debug\TCP Client.csprojResolveAssemblyReference.cache
+C:\Users\User\Documents\Visual Studio 2017\Projects\Simple Async Socket\TCP Client\bin\Debug\TCP Client.exe.config
+C:\Users\User\Documents\Visual Studio 2017\Projects\Simple Async Socket\TCP Client\bin\Debug\TCP Client.exe
+C:\Users\User\Documents\Visual Studio 2017\Projects\Simple Async Socket\TCP Client\bin\Debug\TCP Client.pdb
+C:\Users\User\Documents\Visual Studio 2017\Projects\Simple Async Socket\TCP Client\obj\Debug\TCP Client.csprojResolveAssemblyReference.cache
+C:\Users\User\Documents\Visual Studio 2017\Projects\Simple Async Socket\TCP Client\obj\Debug\TCP_Client.ClientForm.resources
+C:\Users\User\Documents\Visual Studio 2017\Projects\Simple Async Socket\TCP Client\obj\Debug\TCP_Client.EmojiPanel.resources
+C:\Users\User\Documents\Visual Studio 2017\Projects\Simple Async Socket\TCP Client\obj\Debug\TCP_Client.Properties.Resources.resources
+C:\Users\User\Documents\Visual Studio 2017\Projects\Simple Async Socket\TCP Client\obj\Debug\TCP Client.csproj.GenerateResource.Cache
+C:\Users\User\Documents\Visual Studio 2017\Projects\Simple Async Socket\TCP Client\obj\Debug\TCP Client.exe
+C:\Users\User\Documents\Visual Studio 2017\Projects\Simple Async Socket\TCP Client\obj\Debug\TCP Client.pdb

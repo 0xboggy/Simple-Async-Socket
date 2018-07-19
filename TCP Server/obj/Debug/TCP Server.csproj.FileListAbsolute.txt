@@ -1,0 +1,18 @@
+C:\Users\User\Documents\Visual Studio 2015\Projects\Simple Async Socket\TCP Server\obj\Debug\TCP_Server.ServerForm.resources
+C:\Users\User\Documents\Visual Studio 2015\Projects\Simple Async Socket\TCP Server\obj\Debug\TCP_Server.Properties.Resources.resources
+C:\Users\User\Documents\Visual Studio 2015\Projects\Simple Async Socket\TCP Server\obj\Debug\TCP Server.csproj.GenerateResource.Cache
+C:\Users\User\Documents\Visual Studio 2015\Projects\Simple Async Socket\TCP Server\bin\Debug\TCP Client.exe.config
+C:\Users\User\Documents\Visual Studio 2015\Projects\Simple Async Socket\TCP Server\bin\Debug\TCP Client.exe
+C:\Users\User\Documents\Visual Studio 2015\Projects\Simple Async Socket\TCP Server\bin\Debug\TCP Client.pdb
+C:\Users\User\Documents\Visual Studio 2015\Projects\Simple Async Socket\TCP Server\obj\Debug\TCP Client.exe
+C:\Users\User\Documents\Visual Studio 2015\Projects\Simple Async Socket\TCP Server\obj\Debug\TCP Client.pdb
+C:\Users\User\Documents\Visual Studio 2015\Projects\Simple Async Socket\TCP Server\obj\Debug\TCP Server.csprojResolveAssemblyReference.cache
+C:\Users\User\Documents\Visual Studio 2017\Projects\Simple Async Socket\TCP Server\bin\Debug\TCP Client.exe.config
+C:\Users\User\Documents\Visual Studio 2017\Projects\Simple Async Socket\TCP Server\bin\Debug\TCP Client.exe
+C:\Users\User\Documents\Visual Studio 2017\Projects\Simple Async Socket\TCP Server\bin\Debug\TCP Client.pdb
+C:\Users\User\Documents\Visual Studio 2017\Projects\Simple Async Socket\TCP Server\obj\Debug\TCP Server.csprojResolveAssemblyReference.cache
+C:\Users\User\Documents\Visual Studio 2017\Projects\Simple Async Socket\TCP Server\obj\Debug\TCP_Server.ServerForm.resources
+C:\Users\User\Documents\Visual Studio 2017\Projects\Simple Async Socket\TCP Server\obj\Debug\TCP_Server.Properties.Resources.resources
+C:\Users\User\Documents\Visual Studio 2017\Projects\Simple Async Socket\TCP Server\obj\Debug\TCP Server.csproj.GenerateResource.Cache
+C:\Users\User\Documents\Visual Studio 2017\Projects\Simple Async Socket\TCP Server\obj\Debug\TCP Client.exe
+C:\Users\User\Documents\Visual Studio 2017\Projects\Simple Async Socket\TCP Server\obj\Debug\TCP Client.pdb
